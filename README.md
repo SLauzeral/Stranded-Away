@@ -14,3 +14,6 @@ My contribution to this project:
 - offering system
 - Many animations of ennemies
 - participated to the creation of the craft system
+
+
+unpack the Build.rar archive to access the build

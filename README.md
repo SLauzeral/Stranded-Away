@@ -16,4 +16,5 @@ My contribution to this project:
 - participated to the creation of the craft system
 
 
-unpack the Build.rar archive to access the build
+open the build folder and launch the "Stranded Away" application.
+
